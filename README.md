@@ -1,7 +1,6 @@
 ---
 layout: page
 title: "StarGazers"
-description: "Some Description"
 ---
 
 [Home](README.md) | [Cast](Cast.md) | [Collectibles](Collectibles.md)
