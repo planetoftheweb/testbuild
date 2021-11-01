@@ -13,3 +13,6 @@ Stargazers are fluent in JavaScript, so once you connect to their network, simpl
 ```js
 console.log("Take me to your leader");
 ```
+
+## Upcoming Features
+- [ ] Convert this to a site #1 
