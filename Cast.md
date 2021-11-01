@@ -1,6 +1,6 @@
 Each Stargazer shares a love of travel, especially guiding others in the alliance in tours of their home galaxies. All enjoy exchanging folklore and histories of each, as well as trying one another’s mode of transport and favorite foods.
 
-Name: Aneirin
+# Aneirin
 Bio: Aneirin is the foremost expert of cold climates in planetoids universe-wide, with a particular inquisitiveness in areas colder than -300 F / - 184.4444444 C (hence the profound personal interest in knitting mittens). Having travelled extensively, Aneirin enjoys collecting, receiving, and sending distinctive postcards from all corners of the macrocosm.
 Planet of Origin: Zacon II
 Number of Eyes: 2
@@ -14,7 +14,7 @@ Job Title: Cold Climate Analyst
 Dream Job Title: Private Island Caretaker
 Singing Voice: alto
 
-Name: Celestia Dristi
+# Celestia Dristi
 Bio: As a mobility engineer, Celestia Dristi helps individuals and companies to improve personal and professional agility and growth in technology and systems. An expert in translating and implementing needs into functionality, Celestia Dristi has a unique proclivity for solving problems and helping to avoid future issues.
 Planet of Origin: Krachonk
 Number of Eyes: 1
@@ -28,7 +28,7 @@ Job Title: Mobility Engineer
 Dream Job Title: Mime
 Singing Voice: soprano
 
-Name: Charmaine
+#Charmaine
 Bio: Charmaine loves fossils from every society and planet, and helping to piece together the stories they tell of an earlier time. Once completing university studies in paleontology with a minor in swimming arts, Charmaine immediately transitioned to working on the now-famous Dig of Pleoria.
 Planet of Origin: Graykor 5
 Number of Eyes: 2
@@ -42,7 +42,7 @@ Job Title: Paleontologist
 Dream Job Title: Olympian Water Poloist
 Singing Voice: tenor
 
-Name: Emmyloo, "Em"
+# Emmyloo, "Em"
 Bio: If you look up “lexicography” in the dictionary, you will see a photo of Emmyloo. She claims that her devotion to lexicography began as early as two years old, when she spoke her first full sentence. Fluent in 94 languages, Emmyloo helps in analyzing relationships among words and the nuances of their meanings and relationships to other words.
 Planet of Origin: Maedora
 Number of Eyes: 2
@@ -56,7 +56,7 @@ Job Title: Interplanetary Theoretical Lexicographer
 Dream Job Title: Interplanetary Theoretical Lexicographer
 Singing Voice: soprano
 
-Name: Gill
+# Gill
 Bio: Gill carries on generations of tradition in his family as a hydrologist specializing in underground reservoirs of aquatic-based planetoids. Of note is his revolutionary studies in the adaptation and accumulation of life in estuaries and cenotes. He volunteers as an instructor in advanced swimming and walking to young Amphibians.
 Planet of Origin: Amphibia
 Number of Eyes: 2
@@ -70,7 +70,7 @@ Job Title: Senior Hydrologist
 Dream Job Title: Senior Free-floater
 Singing Voice: bass
 
-Name: Ichabod
+# Ichabod
 Bio: Operations supervisor Ichabod is unwavering in adherence to the perfection of order and function. Using inborn impassiveness to distracting influences, Ichabod has led several teams to operational distinction with the advantage of being able to successfully teach precise hoverboard maneuverability.  
 Planet of Origin: Krachonk
 Number of Eyes: 3
@@ -84,7 +84,7 @@ Job Title: Operations Supervisor
 Dream Job Title: Senior Free-floater
 Singing Voice: falsetto
 
-Name: Laverne
+# Laverne
 Bio: Laverne holds a degree in theoretical physics from Quantumnus University. Having interned for the great theoretical physicist, Bob, Laverne pursued a natural aptitude in understanding relationships among dissimilar measurable quantities to become the theoretical physics coordinator at Quantumnus U.
 Planet of Origin: Isronch Major
 Number of Eyes: 2
@@ -98,7 +98,7 @@ Job Title: Theoretical Physics Coordinator
 Dream Job Title: Pilates Instructor
 Singing Voice: alto
 
-Name: Mindigo, "MIndigogo"
+# Mindigo, "MIndigogo"
 Bio: Transportation Technologist Mindigo earned the nickname “MindiGoGo” because of her tireless work in advanced travel and commodity conveyance. After earning a degree in transportation from Amethystopia’s premiere technical college, Mindigo quickly rolled up through company ranks from cargo hauler to conveyance savant. She is recipient of the coveted Presidential Medal of Moving Stuff.
 Planet of Origin: Amethystopia
 Number of Eyes: 2
@@ -112,7 +112,7 @@ Job Title: Transportation Technologist
 Dream Job Title: Laser Tag Referee
 Singing Voice: alto
 
-Name: Nalda
+# Nalda
 Bio: Autodidact Nalda began work as a mind reader and universal translator in 2288 when founding the non-profit, Interplanetary Understanders and Lie Detectors, LLC (IULD). Through IULD, Nalda has successfully helped several formerly feuding planetary governments to pause, recognize their similarities, and eventually understand what the other was actually saying, assisting in achieve lasting peace and collaboration.
 Planet of Origin: Isronch Minor
 Number of Eyes: 2
@@ -126,7 +126,7 @@ Job Title: Mind Reader and Universal Translator
 Dream Job Title: Poet
 Singing Voice: alto
 
-Name: Narf the Fourth
+# Narf the Fourth
 Bio: Narf the Fourth (known to friends as ‘Norf’) oversees the manufacturing of astronomic spaceship accessories at Saucer & Rocket, Inc. Norf keeps an eye on all aspects of production quality, including managing several lower quality assurance specialists. Interests include jet-pack racing, bodybuilding, and volunteer baseball coach. Friends tell us that it’s not summer if you don't hear Norf yelling ”keep your eye on the ball!"
 Planet of Origin: Krachonk
 Number of Eyes: 1
@@ -140,7 +140,7 @@ Job Title: Quality Assurance Specialist
 Dream Job Title: Hand Model
 Singing Voice: baritone
 
-Name: Portman
+# Portman
 Bio: No one loves animals, critters, varmints, and beasties as much as Dr. Portman, whether they are wild or a beloved pet. Leading a crew of superterrestrial veterinarians throughout the galaxy, Dr. Portman has discovered many antidotes for animal illnesses on a planetoid that can also be used successfully on other planetoids, and is working to expand the cross-distribution of these treatments and cures throughout the universe.
 Planet of Origin: Proboscisk
 Number of Eyes: 2
@@ -156,7 +156,7 @@ Singing Voice: baritone and falsetto
 
 ---
 
-Name: Seymour
+# Seymour
 Bio: “If it isn't counted, it doesn't count!"™ is the mantra Seymour originated and propagated in the colossal and growing industry of inventory control. Now trademarked as the slogan for Seymour's company, Totaling, it serves as reassurance of the company's mission and meaning for potential and current clients. Counting things is pretty much all Seymour does, other than recreational mountain climbing.
 Planet of Origin: Pepinos IV
 Number of Eyes: 2
