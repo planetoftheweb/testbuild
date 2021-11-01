@@ -2,14 +2,13 @@
 layout: page
 title: "StarGazers"
 description: "Some Description"
-myvar: "Some Variable"
 ---
 
 [Home](README.md) | [Cast](Cast.md) | [Collectibles](Collectibles.md)
 
 <img src="images/logo_stargazers_bug.svg" alt="StarGazers Logo" style="width:300px;">
 
-# **StarGazers** Unleashed the {{myvar}}
+# **StarGazers** Unleashed the Super
 
 The Stargazers are members of the _Intergalactic Alliance_ paving the way for peace and benevolence among all species. They are known for their enthusiasm for science, for their love of fun, and their dedication to education.
 
