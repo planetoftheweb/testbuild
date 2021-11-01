@@ -1,6 +1,6 @@
 [Home](README.md) | [Cast](Cast.md) | [Collectibles](Collectibles.md)
 
-<h1>StarGazers</h1>
+<h1>StarGazers--Megaforce</h1>
 
 <img src="images/logo_stargazers_bug.svg" alt="Stargazers Logo" style="width:200px; float: left;">
 
