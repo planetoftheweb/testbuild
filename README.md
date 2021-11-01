@@ -8,6 +8,6 @@ The Stargazers are members of the Intergalactic Alliance paving the way for peac
 
 Stargazers are fluent in JavaScript, so once you connect to their network, simply type in a message into their console.
 
-```
+```js
 console.log("Take me to your leader");
 ```
